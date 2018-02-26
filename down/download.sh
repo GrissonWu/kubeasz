@@ -1,9 +1,9 @@
 #!/bin/bash
 #主要组件版本如下
-export K8S_VER=v1.9.0
-export ETCD_VER=v3.2.11
-export DOCKER_VER=17.09.1-ce
-export CALICO_VER=v2.6.3
+export K8S_VER=v1.9.3
+export ETCD_VER=v3.3.1
+export DOCKER_VER=17.12.0-ce
+export CALICO_VER=v2.6.7
 export DOCKER_COMPOSE=1.18.0
 export HARBOR=v1.2.2
 
